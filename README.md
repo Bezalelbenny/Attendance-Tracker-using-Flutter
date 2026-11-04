@@ -16,7 +16,7 @@ attendance and display individual student profiles.
 - Material UI
 
 ## Screenshots
-Home:![Home]()
+Home:![Home](https://github.com/Bezalelbenny/Attendance-Tracker-using-Flutter/blob/d00715122823db3d05d003c8c98d3a732d7c128c/Screenshot%202026-11-04%20211616.png)
 Profile:![Profile]()
 
 
